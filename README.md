@@ -14,8 +14,7 @@ Revenue and sales metrics
 
 ### Dashboard Preview
 
-https://github.com/user-attachments/assets/424f7a34-bab8-450d-bacb-ca74a3403302
-
+https://github.com/user-attachments/assets/505c512d-99dd-4f84-ac52-1d8810a1f56e
 
 
 ### Project Objectives
