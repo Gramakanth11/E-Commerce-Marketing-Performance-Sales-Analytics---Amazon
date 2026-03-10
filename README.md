@@ -41,27 +41,7 @@ Power BI
 
 ### Project Workflow
 
-Raw Dataset
-
-       ↓
-   
-Data Cleaning (Python)
-
-       ↓
-   
-Data Storage (MySQL)
-
-       ↓ 
-   
-SQL Analysis
-
-       ↓
-   
-Power BI Dashboard
-
-       ↓
-   
-Business Insights
+Raw Dataset -> Data Cleaning (Python) -> Data Storage (MySQL) -> SQL Analysis -> Power BI Dashboard -> Business Insights
 
 ### Key Insights
 
