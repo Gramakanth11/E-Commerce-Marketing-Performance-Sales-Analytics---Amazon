@@ -43,23 +43,23 @@ Power BI
 
 Raw Dataset
 
-   ↓
+       ↓
    
 Data Cleaning (Python)
 
-   ↓
+       ↓
    
 Data Storage (MySQL)
 
-   ↓ 
+       ↓ 
    
 SQL Analysis
 
-   ↓
+       ↓
    
 Power BI Dashboard
 
-   ↓
+       ↓
    
 Business Insights
 
