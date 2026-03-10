@@ -14,9 +14,6 @@ Revenue and sales metrics
 
 ### Dashboard Preview
 
-<img width="1310" height="741" alt="Dasboard_IMG" src="https://github.com/user-attachments/assets/c29c58a1-a8e6-47a7-a342-672d660d93ec" />
-
-
 https://github.com/user-attachments/assets/424f7a34-bab8-450d-bacb-ca74a3403302
 
 
